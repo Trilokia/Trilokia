@@ -3,7 +3,7 @@
 <p align="center">
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
 <br><br>
-  · <a href="https://drive.google.com/file/d/18pgFVc82IenHd481XwpNACaR25ZQPJ7m/view?usp=sharing">Resume</a>
+  · <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
  · 
 <br>
 <a href="https://play.google.com/store/apps/dev?id=4898227705286580329">Android developer @Trilokia Inc.</a>
